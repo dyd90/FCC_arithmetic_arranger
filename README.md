@@ -1,3 +1,7 @@
+### Problem statement below. Project contains Darian's solution to it.
+
+Please find more on FCC website: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter
+
 ### Assignment
 
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
